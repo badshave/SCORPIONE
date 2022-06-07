@@ -1,0 +1,508 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",SKY SPORTS RACING
+http://scorpione.net:25461/test44/123456/32883
+#EXTINF:-1,UK: At The Races
+http://scorpione.net:25461/test44/123456/32982
+#EXTINF:-1,UK: Racing TV (Backup)
+http://scorpione.net:25461/test44/123456/33076
+#EXTINF:-1,UK: Racing SD
+http://scorpione.net:25461/test44/123456/33077
+#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS MAIN EVENT
+http://scorpione.net:25461/test44/123456/32879
+#EXTINF:-1,Sky Sports Premier League
+http://scorpione.net:25461/test44/123456/32880
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://scorpione.net:25461/test44/123456/32877
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://scorpione.net:25461/test44/123456/32873
+#EXTINF:-1,SKY SPORTS MIX
+http://scorpione.net:25461/test44/123456/32881
+#EXTINF:-1,SKY SPORTS GOLF
+http://scorpione.net:25461/test44/123456/32878
+#EXTINF:-1,SKY SPORTS CRICKET
+http://scorpione.net:25461/test44/123456/32874
+#EXTINF:-1,UK: SKY SPORTS CRICKET (BACKUP)
+http://scorpione.net:25461/test44/123456/32875
+#EXTINF:-1,SKY SPORTS F1
+http://scorpione.net:25461/test44/123456/32876
+#EXTINF:-1 group-title="BT",BT SPORT 1
+http://scorpione.net:25461/test44/123456/32900
+#EXTINF:-1,BT SPORT 2
+http://scorpione.net:25461/test44/123456/32901
+#EXTINF:-1,BT SPORT 3
+http://scorpione.net:25461/test44/123456/32902
+#EXTINF:-1,BT Sport ESPN
+http://scorpione.net:25461/test44/123456/32903
+#EXTINF:-1,BT SPORT EXTRA 1
+http://scorpione.net:25461/test44/123456/32904
+#EXTINF:-1,BT SPORT EXTRA 2
+http://scorpione.net:25461/test44/123456/32905
+#EXTINF:-1,BT SPORT EXTRA 3
+http://scorpione.net:25461/test44/123456/32906
+#EXTINF:-1,BT SPORT EXTRA 5
+http://scorpione.net:25461/test44/123456/32907
+#EXTINF:-1,BT SPORT EXTRA
+http://scorpione.net:25461/test44/123456/33014
+#EXTINF:-1,UK: MUTV
+http://scorpione.net:25461/test44/123456/33060
+#EXTINF:-1,UK: BOX NATION
+http://scorpione.net:25461/test44/123456/32989
+#EXTINF:-1,UK: FreeSports
+http://scorpione.net:25461/test44/123456/32915
+#EXTINF:-1,UK: FreeSports HD
+http://scorpione.net:25461/test44/123456/32916
+#EXTINF:-1,UK: FREESPORTS | (Backup)
+http://scorpione.net:25461/test44/123456/32917
+#EXTINF:-1,VIP PREMIER SPORTS 1
+http://scorpione.net:25461/test44/123456/32919
+#EXTINF:-1,UK: PREMIER SPORTS 1 HD
+http://scorpione.net:25461/test44/123456/32920
+#EXTINF:-1,UK: PREMIER SPORTS 2
+http://scorpione.net:25461/test44/123456/32921
+#EXTINF:-1,VIP PREMIER SPORTS 2
+http://scorpione.net:25461/test44/123456/32922
+#EXTINF:-1 group-title="BEIN",beIN Sports 1
+http://scorpione.net:25461/test44/123456/32885
+#EXTINF:-1,beIN Sports 10
+http://scorpione.net:25461/test44/123456/32886
+#EXTINF:-1,beIN Sports 11
+http://scorpione.net:25461/test44/123456/32887
+#EXTINF:-1,UK: beIN Sports 12 | HD
+http://scorpione.net:25461/test44/123456/32888
+#EXTINF:-1,beIN Sports 2
+http://scorpione.net:25461/test44/123456/32889
+#EXTINF:-1,beIN Sports 3
+http://scorpione.net:25461/test44/123456/32890
+#EXTINF:-1,beIN Sports 4
+http://scorpione.net:25461/test44/123456/32891
+#EXTINF:-1,beIN Sports 5
+http://scorpione.net:25461/test44/123456/32892
+#EXTINF:-1,beIN Sports 6
+http://scorpione.net:25461/test44/123456/32893
+#EXTINF:-1,beIN Sports 7
+http://scorpione.net:25461/test44/123456/32894
+#EXTINF:-1,beIN Sports 8
+http://scorpione.net:25461/test44/123456/32895
+#EXTINF:-1,beIN Sports 9
+http://scorpione.net:25461/test44/123456/32896
+#EXTINF:-1 group-title="United Kingdom",UK: Channel 4
+http://scorpione.net:25461/test44/123456/33005
+#EXTINF:-1,UK: Channel 4
+http://scorpione.net:25461/test44/123456/33006
+#EXTINF:-1,UK: S4C HD
+http://scorpione.net:25461/test44/123456/33081
+#EXTINF:-1,ITV 1
+http://scorpione.net:25461/test44/123456/32856
+#EXTINF:-1,ITV 2
+http://scorpione.net:25461/test44/123456/32857
+#EXTINF:-1,ITV 3
+http://scorpione.net:25461/test44/123456/32858
+#EXTINF:-1,ITV 4
+http://scorpione.net:25461/test44/123456/32859
+#EXTINF:-1,ITV LONDON
+http://scorpione.net:25461/test44/123456/32860
+#EXTINF:-1,ITV BE
+http://scorpione.net:25461/test44/123456/32861
+#EXTINF:-1,BBC 1 (Northern Ireland) | SD
+http://scorpione.net:25461/test44/123456/32862
+#EXTINF:-1,London LIVE
+http://scorpione.net:25461/test44/123456/32863
+#EXTINF:-1,BBC 1
+http://scorpione.net:25461/test44/123456/32864
+#EXTINF:-1,BBC Parliament
+http://scorpione.net:25461/test44/123456/32865
+#EXTINF:-1,BBC 2 (Wales) SD
+http://scorpione.net:25461/test44/123456/32866
+#EXTINF:-1,BBC 2
+http://scorpione.net:25461/test44/123456/32867
+#EXTINF:-1,BBC 3
+http://scorpione.net:25461/test44/123456/32868
+#EXTINF:-1,BBC 4
+http://scorpione.net:25461/test44/123456/32869
+#EXTINF:-1,UK: CBBC
+http://scorpione.net:25461/test44/123456/32870
+#EXTINF:-1,Sky News
+http://scorpione.net:25461/test44/123456/32871
+#EXTINF:-1,UK: VIRGIN SPORT IRELAND
+http://scorpione.net:25461/test44/123456/32882
+#EXTINF:-1,UK:  Eurosport 1 LOW
+http://scorpione.net:25461/test44/123456/32884
+#EXTINF:-1,beIN Sports En Espanyol
+http://scorpione.net:25461/test44/123456/32897
+#EXTINF:-1,beIN Sports La Liga
+http://scorpione.net:25461/test44/123456/32898
+#EXTINF:-1,beIN Sports USA
+http://scorpione.net:25461/test44/123456/32899
+#EXTINF:-1,UK: Eir Sport 2
+http://scorpione.net:25461/test44/123456/32908
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://scorpione.net:25461/test44/123456/32909
+#EXTINF:-1,UK: Eir Sport 2 HD
+http://scorpione.net:25461/test44/123456/32910
+#EXTINF:-1,UK: Motors TV
+http://scorpione.net:25461/test44/123456/32918
+#EXTINF:-1,UK: CNBC
+http://scorpione.net:25461/test44/123456/32923
+#EXTINF:-1,UK: CNN
+http://scorpione.net:25461/test44/123456/32924
+#EXTINF:-1,UK: CNN HD
+http://scorpione.net:25461/test44/123456/32925
+#EXTINF:-1,UK: Euro News | HD
+http://scorpione.net:25461/test44/123456/32926
+#EXTINF:-1,UK: Euronews
+http://scorpione.net:25461/test44/123456/32927
+#EXTINF:-1,UK: RT News
+http://scorpione.net:25461/test44/123456/32928
+#EXTINF:-1,RTE News Now
+http://scorpione.net:25461/test44/123456/32929
+#EXTINF:-1,VIP RTE 1
+http://scorpione.net:25461/test44/123456/32930
+#EXTINF:-1,VIP RTE 2
+http://scorpione.net:25461/test44/123456/32931
+#EXTINF:-1,Sky News Arabia
+http://scorpione.net:25461/test44/123456/32932
+#EXTINF:-1,UK: Sky One
+http://scorpione.net:25461/test44/123456/32933
+#EXTINF:-1,UK: Sky Arts HD
+http://scorpione.net:25461/test44/123456/32934
+#EXTINF:-1,Sky Arts
+http://scorpione.net:25461/test44/123456/32935
+#EXTINF:-1,UK: Sky Atlantic
+http://scorpione.net:25461/test44/123456/32936
+#EXTINF:-1,UK: Sky Atlantic | HD
+http://scorpione.net:25461/test44/123456/32937
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://scorpione.net:25461/test44/123456/32938
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://scorpione.net:25461/test44/123456/32939
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://scorpione.net:25461/test44/123456/32940
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://scorpione.net:25461/test44/123456/32941
+#EXTINF:-1,UK: Sky Cinema Comedy (Backup)
+http://scorpione.net:25461/test44/123456/32942
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://scorpione.net:25461/test44/123456/32943
+#EXTINF:-1,UK: Sky Cinema Disney
+http://scorpione.net:25461/test44/123456/32944
+#EXTINF:-1,UK: Sky Cinema Disney
+http://scorpione.net:25461/test44/123456/32945
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://scorpione.net:25461/test44/123456/32946
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://scorpione.net:25461/test44/123456/32947
+#EXTINF:-1,UK: Sky Cinema Family
+http://scorpione.net:25461/test44/123456/32948
+#EXTINF:-1,UK: Sky Cinema Family
+http://scorpione.net:25461/test44/123456/32949
+#EXTINF:-1,UK: Sky Cinema Greats
+http://scorpione.net:25461/test44/123456/32950
+#EXTINF:-1,UK: Sky Cinema Greats
+http://scorpione.net:25461/test44/123456/32951
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://scorpione.net:25461/test44/123456/32952
+#EXTINF:-1,UK: Sky Cinema Hits
+http://scorpione.net:25461/test44/123456/32953
+#EXTINF:-1,UK: Sky Cinema Hits
+http://scorpione.net:25461/test44/123456/32954
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://scorpione.net:25461/test44/123456/32955
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://scorpione.net:25461/test44/123456/32956
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://scorpione.net:25461/test44/123456/32957
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://scorpione.net:25461/test44/123456/32958
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://scorpione.net:25461/test44/123456/32959
+#EXTINF:-1,UK: Sky Movies Action & Adventure FHD
+http://scorpione.net:25461/test44/123456/32960
+#EXTINF:-1,UK: Sky Movies Comedy FHD
+http://scorpione.net:25461/test44/123456/32961
+#EXTINF:-1,UK: Sky Movies Disney FHD
+http://scorpione.net:25461/test44/123456/32962
+#EXTINF:-1,UK: Sky Movies Drama & Romance FHD
+http://scorpione.net:25461/test44/123456/32963
+#EXTINF:-1,UK: Sky Movies Family FHD
+http://scorpione.net:25461/test44/123456/32964
+#EXTINF:-1,UK: Sky Movies Greats FHD
+http://scorpione.net:25461/test44/123456/32965
+#EXTINF:-1,UK: Sky Movies Premiere FHD
+http://scorpione.net:25461/test44/123456/32966
+#EXTINF:-1,UK: Sky Movies Select
+http://scorpione.net:25461/test44/123456/32967
+#EXTINF:-1,Sky 1
+http://scorpione.net:25461/test44/123456/32968
+#EXTINF:-1,UK: Sky 2
+http://scorpione.net:25461/test44/123456/32969
+#EXTINF:-1,UK: 3E HD
+http://scorpione.net:25461/test44/123456/32970
+#EXTINF:-1,UK: 4seven
+http://scorpione.net:25461/test44/123456/32971
+#EXTINF:-1,UK: 4 Seven | HD
+http://scorpione.net:25461/test44/123456/32972
+#EXTINF:-1,UK: 5 Spike
+http://scorpione.net:25461/test44/123456/32973
+#EXTINF:-1,UK: 5 Spike UK
+http://scorpione.net:25461/test44/123456/32974
+#EXTINF:-1,UK: 5 USA
+http://scorpione.net:25461/test44/123456/32975
+#EXTINF:-1,UK: Al Jazeera English HD
+http://scorpione.net:25461/test44/123456/32976
+#EXTINF:-1,UK: Alibi
+http://scorpione.net:25461/test44/123456/32977
+#EXTINF:-1,UK: Alibi HD
+http://scorpione.net:25461/test44/123456/32978
+#EXTINF:-1,UK: AMC | HD
+http://scorpione.net:25461/test44/123456/32979
+#EXTINF:-1,UK: Animal Planet
+http://scorpione.net:25461/test44/123456/32980
+#EXTINF:-1,Animal Planet
+http://scorpione.net:25461/test44/123456/32981
+#EXTINF:-1,Baby TV SD
+http://scorpione.net:25461/test44/123456/32983
+#EXTINF:-1,UK: BET
+http://scorpione.net:25461/test44/123456/32984
+#EXTINF:-1,UK: BET | SD
+http://scorpione.net:25461/test44/123456/32985
+#EXTINF:-1,UK: Blaze
+http://scorpione.net:25461/test44/123456/32986
+#EXTINF:-1,UK: Boomerang
+http://scorpione.net:25461/test44/123456/32987
+#EXTINF:-1,UK: Boomerang
+http://scorpione.net:25461/test44/123456/32988
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://scorpione.net:25461/test44/123456/32991
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://scorpione.net:25461/test44/123456/32992
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://scorpione.net:25461/test44/123456/32993
+#EXTINF:-1,UK: BOX OFFICE 4 HD
+http://scorpione.net:25461/test44/123456/32994
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://scorpione.net:25461/test44/123456/32995
+#EXTINF:-1,Cartoon Network
+http://scorpione.net:25461/test44/123456/32996
+#EXTINF:-1,Cartoonito
+http://scorpione.net:25461/test44/123456/32997
+#EXTINF:-1,Cbeebies
+http://scorpione.net:25461/test44/123456/32998
+#EXTINF:-1,UK: CBS ACTION
+http://scorpione.net:25461/test44/123456/32999
+#EXTINF:-1,UK: CBS Action
+http://scorpione.net:25461/test44/123456/33000
+#EXTINF:-1,UK: CBS Drama
+http://scorpione.net:25461/test44/123456/33001
+#EXTINF:-1,UK: CBS DRAMA | HD
+http://scorpione.net:25461/test44/123456/33002
+#EXTINF:-1,UK: CBS Reality
+http://scorpione.net:25461/test44/123456/33003
+#EXTINF:-1,UK: Challenge
+http://scorpione.net:25461/test44/123456/33004
+#EXTINF:-1,UK: Channel 5
+http://scorpione.net:25461/test44/123456/33007
+#EXTINF:-1,UK: Channel 5
+http://scorpione.net:25461/test44/123456/33008
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://scorpione.net:25461/test44/123456/33009
+#EXTINF:-1,UK: Crime & Investigation
+http://scorpione.net:25461/test44/123456/33010
+#EXTINF:-1,UK: Cruise1st TV
+http://scorpione.net:25461/test44/123456/33011
+#EXTINF:-1,DAVE JA VU
+http://scorpione.net:25461/test44/123456/33012
+#EXTINF:-1,Dave
+http://scorpione.net:25461/test44/123456/33013
+#EXTINF:-1,UK: Discovery History
+http://scorpione.net:25461/test44/123456/33015
+#EXTINF:-1,Discovery History
+http://scorpione.net:25461/test44/123456/33016
+#EXTINF:-1,Discovery Science
+http://scorpione.net:25461/test44/123456/33017
+#EXTINF:-1,Discovery Shed
+http://scorpione.net:25461/test44/123456/33018
+#EXTINF:-1,Discovery Turbo
+http://scorpione.net:25461/test44/123456/33019
+#EXTINF:-1,Disney Channel
+http://scorpione.net:25461/test44/123456/33020
+#EXTINF:-1,Disney JR
+http://scorpione.net:25461/test44/123456/33021
+#EXTINF:-1,Disney XD
+http://scorpione.net:25461/test44/123456/33022
+#EXTINF:-1,UK: DMAX
+http://scorpione.net:25461/test44/123456/33023
+#EXTINF:-1,DMAX
+http://scorpione.net:25461/test44/123456/33024
+#EXTINF:-1,UK: Drama
+http://scorpione.net:25461/test44/123456/33025
+#EXTINF:-1,UK: Drama
+http://scorpione.net:25461/test44/123456/33026
+#EXTINF:-1,E! Entertainment
+http://scorpione.net:25461/test44/123456/33027
+#EXTINF:-1,UK: E4
+http://scorpione.net:25461/test44/123456/33028
+#EXTINF:-1,UK: E4
+http://scorpione.net:25461/test44/123456/33029
+#EXTINF:-1,UK: Eden
+http://scorpione.net:25461/test44/123456/33030
+#EXTINF:-1,UK: Fightbox FHD
+http://scorpione.net:25461/test44/123456/33031
+#EXTINF:-1,UK: Film 4
+http://scorpione.net:25461/test44/123456/33032
+#EXTINF:-1,UK: Food Network
+http://scorpione.net:25461/test44/123456/33033
+#EXTINF:-1,UK: Food Network
+http://scorpione.net:25461/test44/123456/33034
+#EXTINF:-1,UK: FOX
+http://scorpione.net:25461/test44/123456/33035
+#EXTINF:-1,GOLD
+http://scorpione.net:25461/test44/123456/33036
+#EXTINF:-1,UK: H2 | HD
+http://scorpione.net:25461/test44/123456/33037
+#EXTINF:-1,UK: History
+http://scorpione.net:25461/test44/123456/33038
+#EXTINF:-1,UK: History
+http://scorpione.net:25461/test44/123456/33039
+#EXTINF:-1,UK: Home
+http://scorpione.net:25461/test44/123456/33040
+#EXTINF:-1,UK: Horror Channel
+http://scorpione.net:25461/test44/123456/33041
+#EXTINF:-1,UK: Horror Channel 1 | HD
+http://scorpione.net:25461/test44/123456/33042
+#EXTINF:-1,UK: ID
+http://scorpione.net:25461/test44/123456/33043
+#EXTINF:-1,UK: Islam TV UK
+http://scorpione.net:25461/test44/123456/33044
+#EXTINF:-1,UK: Kiss TV
+http://scorpione.net:25461/test44/123456/33045
+#EXTINF:-1,UK: LFC Liverpool TV
+http://scorpione.net:25461/test44/123456/33046
+#EXTINF:-1,UK: LFC TV
+http://scorpione.net:25461/test44/123456/33047
+#EXTINF:-1,UK: Lifetime
+http://scorpione.net:25461/test44/123456/33048
+#EXTINF:-1,UK: Lifetime
+http://scorpione.net:25461/test44/123456/33049
+#EXTINF:-1,UK: More 4
+http://scorpione.net:25461/test44/123456/33050
+#EXTINF:-1,UK: MTV
+http://scorpione.net:25461/test44/123456/33051
+#EXTINF:-1,UK: MTV
+http://scorpione.net:25461/test44/123456/33052
+#EXTINF:-1,UK: MTV Base
+http://scorpione.net:25461/test44/123456/33053
+#EXTINF:-1,UK: MTV Classic
+http://scorpione.net:25461/test44/123456/33054
+#EXTINF:-1,UK: MTV Classic | HD
+http://scorpione.net:25461/test44/123456/33055
+#EXTINF:-1,UK: MTV Hits
+http://scorpione.net:25461/test44/123456/33056
+#EXTINF:-1,UK: MTV Hits
+http://scorpione.net:25461/test44/123456/33057
+#EXTINF:-1,UK: MTV Music | HD
+http://scorpione.net:25461/test44/123456/33058
+#EXTINF:-1,UK: MTV Rocks
+http://scorpione.net:25461/test44/123456/33059
+#EXTINF:-1,Nat Geo Wild
+http://scorpione.net:25461/test44/123456/33061
+#EXTINF:-1,Nat Geo
+http://scorpione.net:25461/test44/123456/33062
+#EXTINF:-1,Nick Jr
+http://scorpione.net:25461/test44/123456/33063
+#EXTINF:-1,Nick Jr Too
+http://scorpione.net:25461/test44/123456/33064
+#EXTINF:-1,Nickelodeon
+http://scorpione.net:25461/test44/123456/33065
+#EXTINF:-1,UK: Nicktoons
+http://scorpione.net:25461/test44/123456/33066
+#EXTINF:-1,Paramount
+http://scorpione.net:25461/test44/123456/33067
+#EXTINF:-1,UK: PICK TV
+http://scorpione.net:25461/test44/123456/33068
+#EXTINF:-1,UK: PICK TV
+http://scorpione.net:25461/test44/123456/33069
+#EXTINF:-1,UK: POP Max
+http://scorpione.net:25461/test44/123456/33070
+#EXTINF:-1,UK: Quest RED
+http://scorpione.net:25461/test44/123456/33071
+#EXTINF:-1,UK: Quest | HD
+http://scorpione.net:25461/test44/123456/33072
+#EXTINF:-1,UK: QVC
+http://scorpione.net:25461/test44/123456/33073
+#EXTINF:-1,UK: QVC Beauty
+http://scorpione.net:25461/test44/123456/33074
+#EXTINF:-1,UK: QVC Extra
+http://scorpione.net:25461/test44/123456/33075
+#EXTINF:-1,RTE 1
+http://scorpione.net:25461/test44/123456/33078
+#EXTINF:-1,RTE 2
+http://scorpione.net:25461/test44/123456/33079
+#EXTINF:-1,RTE Jr
+http://scorpione.net:25461/test44/123456/33080
+#EXTINF:-1,UK: Sony TV
+http://scorpione.net:25461/test44/123456/33082
+#EXTINF:-1,UK: Spike | HD
+http://scorpione.net:25461/test44/123456/33083
+#EXTINF:-1,UK: Star Gold
+http://scorpione.net:25461/test44/123456/33084
+#EXTINF:-1,Gold (Backup)
+http://scorpione.net:25461/test44/123456/33085
+#EXTINF:-1,UK: SYFY
+http://scorpione.net:25461/test44/123456/33086
+#EXTINF:-1,UK: TCM
+http://scorpione.net:25461/test44/123456/33087
+#EXTINF:-1,UK: TG4
+http://scorpione.net:25461/test44/123456/33088
+#EXTINF:-1,UK: Tiny POP
+http://scorpione.net:25461/test44/123456/33089
+#EXTINF:-1,UK: TLC  | UHD
+http://scorpione.net:25461/test44/123456/33090
+#EXTINF:-1,UK: Travel Channel
+http://scorpione.net:25461/test44/123456/33091
+#EXTINF:-1,UK: Travel Channel
+http://scorpione.net:25461/test44/123456/33092
+#EXTINF:-1,UK: Tru TV HD
+http://scorpione.net:25461/test44/123456/33093
+#EXTINF:-1,UK: True Movies
+http://scorpione.net:25461/test44/123456/33094
+#EXTINF:-1,UK: UFC NIGHT PASS
+http://scorpione.net:25461/test44/123456/33095
+#EXTINF:-1,UK: UFC Fight Pass HD
+http://scorpione.net:25461/test44/123456/33096
+#EXTINF:-1,UK: Universal
+http://scorpione.net:25461/test44/123456/33097
+#EXTINF:-1,UK: VH1 | HD
+http://scorpione.net:25461/test44/123456/33098
+#EXTINF:-1,UK: Virgin Media 1 HD
+http://scorpione.net:25461/test44/123456/33099
+#EXTINF:-1,UK: Virgin Media 2 HD
+http://scorpione.net:25461/test44/123456/33100
+#EXTINF:-1,UK: Watch
+http://scorpione.net:25461/test44/123456/33101
+#EXTINF:-1,Watch
+http://scorpione.net:25461/test44/123456/33102
+#EXTINF:-1,UK: YESTERDAY
+http://scorpione.net:25461/test44/123456/33103
+#EXTINF:-1,UK: Yesterday
+http://scorpione.net:25461/test44/123456/33104
+#EXTINF:-1,UK: ZEE TV | HD
+http://scorpione.net:25461/test44/123456/33105
+#EXTINF:-1,UK | Now 90s
+http://scorpione.net:25461/test44/123456/33106
+#EXTINF:-1,UK Really
+http://scorpione.net:25461/test44/123456/33107
+#EXTINF:-1,UK Sky Arts FHD
+http://scorpione.net:25461/test44/123456/33108
+#EXTINF:-1,UK Sky Witness
+http://scorpione.net:25461/test44/123456/33109
+#EXTINF:-1,UK SYFY
+http://scorpione.net:25461/test44/123456/33110
+#EXTINF:-1,UK ZEE AFLAM
+http://scorpione.net:25461/test44/123456/33111
+#EXTINF:-1,UK ZEE ALWAN
+http://scorpione.net:25461/test44/123456/33112
+#EXTINF:-1,UK: RTE NEWS
+http://scorpione.net:25461/test44/123456/33113
+#EXTINF:-1,UK: Virgin Media 3 HD
+http://scorpione.net:25461/test44/123456/33114
